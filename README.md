@@ -9,6 +9,8 @@
   },
 ```
 
+```
 pkg . -t node16-win-x64 -o app --debug
+```
 
 
